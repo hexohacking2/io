@@ -1,0 +1,5 @@
+Module DynamicCode
+    Sub Main()
+        MessageBox.Show("Hello, this is dynamically executed code from Pastebin!", "Dynamic Code Execution")
+    End Sub
+End Module
